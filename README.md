@@ -1,7 +1,7 @@
 ## Hi there 👋
 ---
 
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/717822p145)
+![Leetcode Stats](https://leetcard.jacoblin.cool/717822p145)
 
 
 <!--
