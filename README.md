@@ -1,4 +1,8 @@
 ## Hi there 👋
+---
+
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/sakthi)
+
 
 <!--
 **sakthi-2005/sakthi-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
