@@ -1,16 +1,13 @@
 ## Hi there 👋
 ---
 
-<table>
-  <tr>
-    <td>
-      ![Leetcode Stats](https://leetcard.jacoblin.cool/717822p145?theme=dark&ext=contest)
-    </td>
-    <td>
-      <img src="https://leetcode-badge-showcase.vercel.app/api?username={717822p145}" alt="LeetCode Badges"/>
-    </td>
-  </tr>
-</table>
+<div style="display: inline-block; width: 45%; vertical-align: top;">
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/717822p145?theme=dark&ext=contest)
+</div>
+<div style="display: inline-block; width: 45%; vertical-align: top;">
+   <img src="https://leetcode-badge-showcase.vercel.app/api?username={717822p145}" alt="LeetCode Badges"/>
+</div>
+
 
 
 
