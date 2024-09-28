@@ -1,7 +1,7 @@
 ## Hi there 👋
 ---
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/717822p145?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/717822p145?theme=dark&ext=contest)
 
 
 <!--
