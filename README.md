@@ -1,7 +1,7 @@
 ## Hi there 👋
 ---
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/717822p145?theme=dark&ext=contest&site=cn)  <img src="https://leetcode-badge-showcase.vercel.app/api?username=717822p145&animated=true" alt="LeetCode Badges"/>
+![Leetcode Stats](https://leetcard.jacoblin.cool/717822p145?theme=dark&ext=contest)  <img src="https://leetcode-badge-showcase.vercel.app/api?username=717822p145&animated=true" alt="LeetCode Badges"/>
 
 
 
