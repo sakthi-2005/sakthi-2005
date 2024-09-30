@@ -2,6 +2,8 @@
 ---
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Sakthi_Kumar_2005?theme=dark&ext=contest)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://leetcode-badge-showcase.vercel.app/api?username=Sakthi_Kumar_2005&animated=true" alt="LeetCode Badges"/>
+<br/>
+<br/>
 
 <!--
 **sakthi-2005/sakthi-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
