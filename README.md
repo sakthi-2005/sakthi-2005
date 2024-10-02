@@ -9,7 +9,7 @@
 <br/>
 
 <p align="center">
-<a src="https://leetcode.com/u/Sakthi_Kumar_2005/"><img src="https://leetcard.jacoblin.cool/Sakthi_Kumar_2005?theme=dark&ext=contest"/><a/> &nbsp;&nbsp;<a src="https://leetcode.com/u/Sakthi_Kumar_2005/"> <img src="https://leetcode-badge-showcase.vercel.app/api?username=Sakthi_Kumar_2005&animated=true"/><a/>
+<a src="https://leetcode.com/u/Sakthi_Kumar_2005/"><img src="https://leetcard.jacoblin.cool/Sakthi_Kumar_2005?theme=dark&ext=contest"/><a/> &nbsp;&nbsp;<a src="https://leetcode.com/u/Sakthi_Kumar_2005/"> <img src="https://leetcode-badge-showcase.vercel.app/api?username=Sakthi_Kumar_2005&theme=light&border=border&animated=true"/><a/>
 <p/>
   
 ---
