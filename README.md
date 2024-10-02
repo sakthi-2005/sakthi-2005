@@ -6,6 +6,7 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Sakthi_Kumar_2005?theme=dark&ext=contest)  
 <br/>
 <br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakthi-2005&show_icons=true)
 <!--
 **sakthi-2005/sakthi-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
