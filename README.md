@@ -1,9 +1,9 @@
 ## Hi there 👋
 ---
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Sakthi_Kumar_2005?theme=dark&ext=contest)  
 ![badges](https://leetcode-badge-showcase.vercel.app/api?username=Sakthi_Kumar_2005&animated=true)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/cb52fe0e-a248-4c82-bb7a-d978512b92c0/deploy-status)](https://app.netlify.com/sites/portfolio-sakthikumar/deploys)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Sakthi_Kumar_2005?theme=dark&ext=contest)  
 <br/>
 <br/>
 <!--
