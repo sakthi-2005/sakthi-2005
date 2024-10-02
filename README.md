@@ -3,13 +3,10 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Sakthi_Kumar_2005?theme=dark&ext=contest)  
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Sakthi_Kumar_2005&animated=true) 
-<br/>
-<br/>
 [![Netlify Status](https://api.netlify.com/api/v1/badges/cb52fe0e-a248-4c82-bb7a-d978512b92c0/deploy-status)](https://app.netlify.com/sites/portfolio-sakthikumar/deploys)
 
 <br/>
 <br/>
-![Badge](https://cp-logo.vercel.app/leetcode/Sakthi_Kumar_2005)
 <!--
 **sakthi-2005/sakthi-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
