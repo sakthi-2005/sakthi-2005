@@ -7,6 +7,7 @@
 <br/>
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakthi-2005&show_icons=true)
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakthi-2005&layout=compact)
 <!--
 **sakthi-2005/sakthi-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
