@@ -8,7 +8,7 @@
 
 <br/>
 <br/>
-[![Badge](https://cp-logo.vercel.app/leetcode-cn/Sakthi_Kumar_2005)]
+![Badge](https://cp-logo.vercel.app/leetcode-cn/Sakthi_Kumar_2005)
 <!--
 **sakthi-2005/sakthi-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
