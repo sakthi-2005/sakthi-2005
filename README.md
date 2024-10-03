@@ -1,4 +1,4 @@
-<img align="right" src="https://vbr.nathanchung.dev/badge?page_id=sakthi-2005.sakthi-2005&lcolor=fff&color=000&style=for-the-badge&logo=Github&logoColor=181717&hit=true" />
+<img align="right" src="https://vbr.nathanchung.dev/badge?page_id=sakthi-2005.sakthi-2005&lcolor=fff&color=000&style=for-the-badge&logo=Github&logoColor=181717" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Georgia&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+SAKTHI!;+Fullstack+Developer;"/>
