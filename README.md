@@ -40,6 +40,8 @@
 </a>
 </p>
 
+![](https://vbr.nathanchung.dev/badge?page_id=visitor-badge-reloaded-visitors&lcolor=fff&color=000&style=for-the-badge&logo=Github&logoColor=181717&hit=false)
+
 <!--
 **sakthi-2005/sakthi-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
